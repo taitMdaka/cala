@@ -1,0 +1,4 @@
+C:\Users\TMdaka\Desktop\Delete\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\TMdaka\Desktop\Delete\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\TMdaka\Desktop\Delete\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\TMdaka\Desktop\Delete\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
